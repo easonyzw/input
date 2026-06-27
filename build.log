@@ -1,4 +1,0 @@
-*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'D:\keil\core\ARM\ARMCC\Bin'
-Build target 'Target 1'
-Note: source file '.\Libraries\CMSIS\DeviceSupport\system_stm32f0xx.c' - object file renamed from '.\Build\system_stm32f0xx.o' to '.\Build\system_stm32f0xx_1.o'.".\Build\DI_Input_Learn.axf" - 0 Error(s), 0 Warning(s).
-Build Time Elapsed:  00:00:00
