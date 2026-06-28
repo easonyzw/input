@@ -1,7 +1,12 @@
-#include "stm32f0xx.h"
+#include "Hardware.h"
+
 int main(void)
 {
-    while (1)
+    hardware_init();
+    software_init();
+
+    while(1)
     {
+        IO_state_update();
     }
 }
