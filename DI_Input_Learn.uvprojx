@@ -479,7 +479,15 @@
               <FileType>1</FileType>
               <FilePath>.\Libraries\CMSIS\DeviceSupport\system_stm32f0xx.c</FilePath>
             </File>
+            <File>
+              <FileName>Rcc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\Rcc.c</FilePath>
+            </File>
           </Files>
+        </Group>
+        <Group>
+          <GroupName>Softlayer</GroupName>
         </Group>
       </Groups>
     </Target>
