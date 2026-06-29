@@ -15,7 +15,7 @@
 
 
 
-void Rcc_Init(void);
+void rcc_init(void);
 
 
 #endif
